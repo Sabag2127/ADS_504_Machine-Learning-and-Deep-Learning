@@ -1,7 +1,7 @@
 # ADS_504_Final_Project
 # Prediction of a Client Term Deposit
 ## Contributors
-Fatemeh Khosravi,Saba Alemayehu, and Hoori Javadnia
+Fatemeh Khosravi, Saba Alemayehu, and Hoori Javadnia
 ## Methods  
 * Pre-processing 
 * Data Visualization
