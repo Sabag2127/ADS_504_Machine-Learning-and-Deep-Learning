@@ -1,2 +1,3 @@
-# ADS_504_Machine-Learning-and-Deep-Learning
-* https://www.kaggle.com/datasets/krantiswalke/bankfullcsv/code
+# ADS_504_Final_Project
+# Prediction of a Client Term Deposit
+
