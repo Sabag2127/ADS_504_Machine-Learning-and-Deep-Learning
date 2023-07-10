@@ -13,4 +13,5 @@ Fatemeh Khosravi, Saba Alemayehu, and Hoori Javadnia
 * Excel
 * GoogleDocs
 ## Project Description
+The primary objective of this paper is to study the prior marketing campaigns of a Portuguese Bank using various (Machine Learning) ML techniques to predict if the customer will subscribe to a term deposit.
 ## References
